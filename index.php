@@ -1,5 +1,5 @@
 <?php
-    $title = "Hello Toto!";
+    $title = "Hello Tutu!";
 ?>
 
 <!DOCTYPE html>
